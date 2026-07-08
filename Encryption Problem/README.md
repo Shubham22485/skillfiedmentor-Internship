@@ -287,7 +287,7 @@ RESULT=$(python cryptovault.py --encrypt-pw "hello" <<< "test123" 2>/dev/null)
 
 ## License
 
-This project is provided under the MIT License. Feel free to use, modify, and distribute it in your own projects.
+Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
